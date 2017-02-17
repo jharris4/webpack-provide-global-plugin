@@ -1,7 +1,7 @@
 {
   "name": "webpack-provide-global-plugin",
   "version": "0.0.1",
-  "description": "",
+  "description": "A webpack plugin to provide installed packages as named global variables",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jharris4/webpack-provide-global-plugin.git"
